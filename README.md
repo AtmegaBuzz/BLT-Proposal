@@ -114,17 +114,54 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
 
 # PROPOSED TIMELINE
 
-### Commitments
+## Commitments
 My university will not be providing any sort of vacation due to disturbance in academic timeline because of the Corona Pandemic, but the attendance is not mandatory thus I will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
 **The proposed duration of the project is 350 hrs.**
 
 
-### Timeline
-to be added
+## Timeline
+
+- ### **Before May 4**
+	- Study about BLT core 
+	- Get good understanding of the problem statements
+	- Research about Bitcoin-POS 
+	- Ask questions
+
+- ### **May 4 - May 28**
+	- Interact with mentors and community members.
+	- Review/revise the design.
+
+- ### **May 29 - June 20**
+	- Implementing and Integrating new Frontend UI designs of Home, Start Bug Hunt.
+
+- ### **June 20 - June 25**
+	- Work on Company Profile Page and integrate with BLT Backend.
+
+- ### **June 26 - June 4**
+	- Implementing Private Issue reporting.
+
+- ### **June 4 - July 10**
+	- Start working on API rate Throttling/Limiting.
+
+- ### **July 14**
+	- Evaluation Phase 1
+	
+- ### **July 14 - July 20**
+	- Start learning about Boitcoin-POS and required Blockchain concepts about Proof of Stake (POS) 
+	- Learn how to create an independent chain by changing the genesis block.
+
+- ### **July 20 - Aug 15**
+	- Finish collecting information about the implementation.
+	- Start creating the independent chain and create a bitcoin hot wallet and integrate the chain with Backend.
+	
+- ### **Aug 15 - Aug 21**
+	- Finish some leftover work, document and write tests for the API’s 
 
 
-# Deliverable
+
+# Deliverable's
 - Evaluation Phase 1
+	<br>
 	I’m Confident that I would be able to implement the following ideas that I've mentioned in the proposal before the 1’st Phase of Evaluation Period.
 	- **Home Page**
 	- **Start Bug Hunt Page**

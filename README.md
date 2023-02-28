@@ -90,7 +90,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - Best tool which fits the case is Django-Rest-Frameworks [API Throttling](https://www.django-rest-framework.org/api-guide/throttling/)
       - Image given below gives a better understanding of how Django REST API Throttling works.
 
-<img src="/media/throtelling.png" width="543" height="230" />
+<img src="/media/throtelling.png" width="600" height="350" />
 
 ![](RackMultipart20230228-1-uz2bl9_html_d12253e5f7a14e64.png)
 
@@ -102,7 +102,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
       - Implementing 2 coins (**BACON** and **BUG**) over our independent blockchain.
 
-<img src="/media/bitcoin.png" width="543" height="230" />
+<img src="/media/bitcoin.png" width="600" height="350" />
 
 - ### Private Issue Reporting
 
@@ -110,7 +110,7 @@ I'll be implementing the new design's using Tailwind CSS.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
 
-<img src="/media/private.png" width="543" height="230" />
+<img src="/media/private.png" width="600" height="350" />
 
 
 - ### Issue Voting System

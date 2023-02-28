@@ -53,25 +53,25 @@ I'll be implementing the new design's using Tailwind CSS.
     - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
     - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
 	<br>
-	<img src="/media/leaderboard.png" width="600" height="400" />
+	<img src="/media/leaderboard.png" width="700" height="400" />
 
 - ### Start Bug Hunt Page
 
     - Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
 	<br>
-	<img src="/media/bughunt.png" width="600" height="400" />
+	<img src="/media/bughunt.png" width="700" height="400" />
 
 - ### User Profile Page
 
     - Adding a new profile page with stats showing info of bug reported likes and comments, category of bug solved ( Typo,Security,etc ) with all the recent activities by the user.
 	<br>
-	<img src="/media/userprofile.png" width="600" height="400" />
+	<img src="/media/userprofile.png" width="700" height="400" />
 
 - ### Company Dashboard Page
 
     - After registering the Company, the User will become admin of that domain and company. Users will see all their registered company in a user's company page and will be directly able to manage all the companies and add multiple users to manage the company and domain.
 	<br>
-	<img src="/media/company.png" width="600" height="400" />
+	<img src="/media/company.png" width="700" height="400" />
 
 
 ## BLT Backend

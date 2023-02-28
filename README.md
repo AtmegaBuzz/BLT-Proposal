@@ -3,9 +3,6 @@
 
 	Donnie
 	Aryan Ranjan
-	Sourav Badami
-	Rahul Badami
-	Ankit Choudhary
 
 # **Personal Info**
 
@@ -36,7 +33,7 @@ I started learning Python programming in my first year of college and later star
 Ever since I began learning computer science, open source has been a huge source of passion for me.
 I've always wanted to give back to the community, and by participating in GSOC, I'll gain exposure to opensource projects that are ready for use in the industry and receive mentoring on how to write software with clean code and use design paradigms and patterns from mentors with a lot of experience in open source. They can help me along the way and advance my opensource journey by pointing me in the correct direction.
 
-I'm choosing Owasp for a particular reason. The majority of the tools I used when I first began learning about cybersecurity ZAP, Top 10, etc were from OWASP, and OWASP Top 10 helped me understand and learn about the top 10 web vulnerabilities.
+I'm choosing OWASP for a particular reason. The majority of the tools I used when I first began learning about cybersecurity ZAP, Top 10, etc were from OWASP, and OWASP Top 10 helped me understand and learn about the top 10 web vulnerabilities.
 The advancement of cybersecurity technologies, in my opinion, is also essential for helping businesses secure their networks. The importance of information security has increased considerably in recent years.
 I believe that by making a contribution to OWASP, I will be able to contribute to this crucial area, which many people are unaware of and lack access to.
 
@@ -46,7 +43,7 @@ Also BLT aligns with my Stack i.e Django, Javascript, Blockchain.I also have a b
 
 # Contributions in OWASP
 
-I have started contributing to OWASP and contributed to projects **BLT, PyGoat, Threat-Dragon**. In Project BLT in total I have [54 merged pr's](https://github.com/OWASP/BLT/pulls/AtmegaBuzz) , [14 solved issues](https://github.com/OWASP/BLT/issues?q=assignee%3AAtmegaBuzz+is%3Aclosed+) and [13 raised issues](https://github.com/OWASP/BLT/issues/created_by/AtmegaBuzz).
+I have started contributing to OWASP and contributed to projects **BLT, PyGoat, Threat-Dragon**.(add links) In Project BLT in total I have [54 merged BLT pr's](https://github.com/OWASP/BLT/pulls/AtmegaBuzz) , [14 solved BLT issues](https://github.com/OWASP/BLT/issues?q=assignee%3AAtmegaBuzz+is%3Aclosed+) and [13 raised BLT issues](https://github.com/OWASP/BLT/issues/created_by/AtmegaBuzz).
 
 # **Project Details**
 
@@ -59,6 +56,7 @@ I'll be implementing the new design's using Tailwind CSS.
 
     - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
     - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
+    - (fix all distorted images)
 	<br>
 	<img src="/media/leaderboard.png" width="700" height="400" />
 
@@ -101,13 +99,13 @@ I'll be implementing the new design's using Tailwind CSS.
 	<img src="/media/throtelling.png" width="600" height="400" />
 
 
-- ### Proof of Stake Coin (BUG Coin)
+- ### Proof of Stake Coin (BACON Coin)
 
     - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
       - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
       - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
-      - Implementing 2 coins (**BACON** and **BUG**) over our independent blockchain.
+
 	<br>
 	<img src="/media/bitcoin.png" width="600" height="400" />
 
@@ -141,20 +139,19 @@ to be added
 # Why me?
 
 Being a very enthusiastic individual in the CyberSec and open source fields, I enjoy learning about technology regardless of how difficult or simple its design is to implement.
-I have a good foundation in integrating Full Stack solutions and I have almost 2 years experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs and have a basic understanding of blockchain concepts and mainnets including bitcoin, ethereum and solana.
+I have a good foundation in integrating Full Stack solutions and I have almost 2 years of experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs and have a basic understanding of blockchain concepts and mainnets including bitcoin, ethereum and solana.
 
 # After GSoC
 
 I believe that once my GSOC is completed, I will know the codebase like the back of my hand and be comfortable making significant improvements to the project.
 I will therefore contribute to OWASP BLT and other OWASP projects and attempt to put new ideas into practice.
-If possible I will also try to maintain BLT and increase community engagement of BLT by posting about bugheist on socials.
+If possible I will also try to maintain BLT and increase community engagement of BLT by posting about BLT on socials.
 
 # References
 
 - [https://owasp.org/www-community/initiatives/gsoc/gsoc\_sat](https://owasp.org/www-community/initiatives/gsoc/gsoc_sat)
 - [https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas)
-- [https://www.bugheist.com/](https://www.bugheist.com/)
-- [https://github.com/Bugheist/Flutter](https://github.com/Bugheist/Flutter)
+- [https://github.com/OWASP/BLT/Flutter](https://github.com/OWASP/BLT-Flutter)
 - [https://github.com/owasp/blt/](https://github.com/owasp/blt/)
 - [Figma Designs](https://www.figma.com/file/s0xuxeU6O2guoWEfA9OElZ/Design)
 

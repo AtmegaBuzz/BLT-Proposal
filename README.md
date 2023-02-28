@@ -96,11 +96,11 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
 
 
 - ### Proof of Stake Coin (BACON Coin)
-- 
-      - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
-      - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
-      - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
-      - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
+
+     - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
+     - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
+     - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
+     - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
 
 	<br>
 	<img src="/media/bitcoin.png"/>

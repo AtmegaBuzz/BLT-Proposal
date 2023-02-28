@@ -89,7 +89,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - To protect our backend from abuse, integrating an API rate limiter is an essential part. This will help in limiting the API calls per user. Thus protecting the Backend from bot's and scripts trying to access BLT data.
       - Best tool which fits the case is Django-Rest-Frameworks [API Throttling](https://www.django-rest-framework.org/api-guide/throttling/)
       - Image given below gives a better understanding of how Django REST API Throttling works.
-
+	<br>
 	<img src="/media/throtelling.png" width="600" height="400" />
 
 
@@ -100,7 +100,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
       - Implementing 2 coins (**BACON** and **BUG**) over our independent blockchain.
-
+	<br>
 	<img src="/media/bitcoin.png" width="600" height="400" />
 
 - ### Private Issue Reporting
@@ -108,7 +108,7 @@ I'll be implementing the new design's using Tailwind CSS.
     - Some bug's can be crucial and cannot be displayed in public.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
-
+	<br>
 	<img src="/media/private.png" width="600" height="400" />
 
 

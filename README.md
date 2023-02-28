@@ -122,67 +122,13 @@ I'll be implementing the new design's using Tailwind CSS.
       - More to be included during implementation
 
 
-# PROPOSED 
+# PROPOSED TIMELINE
 
 ### Commitments
 My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus i will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
-
-**Total time commitment for each week will be around 40 hours.**
 **proposed duration of the project is 350hrs.**
 ### Timeline
-| **Pre GSoC Period** |
-| --- |
-| **April 14 - May 20** |
-- Study the existing code.
-- Clear doubts regarding the project.
-- Try contributing to issues in existing repos.
- |
-| **Community Bonding Period** |
-| **May 20 - June 12** |
-- Get to know more about the OWASP community.
-- Participate in any ongoing discussions and take feedbacks and suggestion.
- |
-| **Coding Period** |
-| **June 13 - June 19** |
-- Start solving the issues pertaining to the app
-- Clearing any doubts regarding the above and related to adding new UI and features.
- |
-| **June 20 - June 26** |
-- Close half of the issues
- |
-| **June 28 - July 4** |
-- Close all the issues
-- Start work on the new UI in figma.
- |
-| **July 5 - July 11** |
-- Completion of new and unimplemented UI in figma
-- Implementing the ui within the app.
- |
-| **July 12 - July 18** |
-- Checking for any issues left and of any new ones.
-- Adding proposed and discussed features to BLT
- |
-| **July 19 - July 25** |
-- Fixing some frontend issues of bugheist.com.
-- Cleaning up the code.
-- Fixing any last-minute bugs popping up (if any :))
- |
-| **Evaluation Phase 1** |
-| **July 29 - Aug 4** |
-- Start reading about Proof of stake coin related concepts.
- |
-| **Aug 5 - Aug 11** |
-- Finish reading Proof of Stake coin, start implementing the code
- |
-| **Aug 12 - Aug 18** |
-- Finish the previous week's work.
- |
-| **Aug 19 - Aug 26** |
-- Fix anything left and code cleanup.
- |
-| **Aug 28- Sep 12** |
-- Buffer week, finish anything left according to proposal (if any), or do some initial work on proposed future ideas.
- |
+to be added
 
 # Why me?
 

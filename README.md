@@ -144,7 +144,7 @@ If possible I will also try to maintain BLT and increase community engagement of
 # References
 
 - [https://owasp.org/www-community/initiatives/gsoc/gsoc\_sat](https://owasp.org/www-community/initiatives/gsoc/gsoc_sat)
-- [https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2022ideas)
+- [https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas)
 - [https://www.bugheist.com/](https://www.bugheist.com/)
 - [https://github.com/Bugheist/Flutter](https://github.com/Bugheist/Flutter)
 - [https://github.com/owasp/blt/](https://github.com/owasp/blt/)

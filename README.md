@@ -50,30 +50,27 @@ I have started contributing to OWASP and contributed to projects **BLT, PyGoat, 
 ## BLT Frontend
 
 Current BLT website has a lot of bugs and the UI implemented is not polished. As mentioned in the issue [New Design #696](https://github.com/OWASP/BLT/issues/696).
-I'll be implementing the new design's using Tailwind CSS.
+ I’ll be implementing the new designe’s of the following pages using Tailwind CSS.  
+
 
 - ### Home Page
 
-    - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
-    - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
+	Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
+	Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
+
 	<br>
 	<img src="/media/leaderboard.png"/>
 
 - ### Start Bug Hunt Page
 
-    - Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
+	Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
 	<br>
 	<img src="/media/bughunt.png" />
 
-- ### User Profile Page
-
-    - Adding a new profile page with stats showing info of bug reported likes and comments, category of bug solved ( Typo,Security,etc ) with all the recent activities by the user.
-	<br>
-	<img src="/media/userprofile.png"/>
-
 - ### Company Dashboard Page
 
-    - After registering the Company, the User will become admin of that domain and company. Users will see all their registered company in a user's company page and will be directly able to manage all the companies and add multiple users to manage the company and domain.
+	After registering the Company, the User will become admin of that domain and company. Users will see all their registered companies in a user’s company page and will be directly able to manage all the companies and add multiple users to manage the company and domain.
+
 	<br>
 	<img src="/media/company.png"/>
 
@@ -82,13 +79,12 @@ I'll be implementing the new design's using Tailwind CSS.
 
 - ### API's for BLT Flutter
 
-	Currently most of the functionality is implemented on the web interface but mobile is the key device which increases the accessibility of the BLT project so implementing all the functionality which are on the BLT web to BLT flutter will increase the accessibility.
-    
-    - **Pagination on all the list API's**.
-
     - **Documentation and Testing (**[Django's Unit Test](https://docs.python.org/3/library/unittest.html#module-unittest)**)**
       - Providing good documentation makes it easy for contributors, consumers and maintainers to understand the functionality and maintain the project in the long run.
-      - Creating tests is a key part in maintaining the project. It will help maintainers catch any bug's early before deploying the project to production.
+      - The API Documentation will be done in Swagger due to its simple UI and easy to understand API format.
+
+      - Creating tests for the API’s is a key part in maintaining the project. It will help maintainers catch any bug’s early before deploying the project and ensure that BLT Flutter doesn't go down due to API failure.
+
 
     - **API Rate Limiter:**
       - To protect our backend from abuse, integrating an API rate limiter is an essential part. This will help in limiting the API calls per user. Thus protecting the Backend from bot's and scripts trying to access BLT data.
@@ -100,7 +96,7 @@ I'll be implementing the new design's using Tailwind CSS.
 
 - ### Proof of Stake Coin (BACON Coin)
 
-    - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
+      - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
       - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
       - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
@@ -116,24 +112,32 @@ I'll be implementing the new design's using Tailwind CSS.
 	<br>
 	<img src="/media/private.png"/>
 
-
-- ### Issue Voting System
-
-    - The Plan is to implement a voting system on bugs published
-    - The voting functionality will be same as of stackoverflow
-    - User's can vote on a bug if they have at least
-      - 1 Verified issue/bug
-      - Participated in at least 2 bug hunts
-      - More to be included during implementation
-
-
 # PROPOSED TIMELINE
 
 ### Commitments
-My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus I will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
-**proposed duration of the project is 350hrs.**
+My university will not be providing any sort of vacation due to disturbance in academic timeline because of the Corona Pandemic, but the attendance is not mandatory thus I will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
+**The proposed duration of the project is 350 hrs.**
+
+
 ### Timeline
 to be added
+
+
+# Deliverable
+- Evaluation Phase 1
+	I’m Confident that I would be able to implement the following ideas that I've mentioned in the proposal before the 1’st Phase of Evaluation Period.
+	- **Home Page**
+	- **Start Bug Hunt Page**
+	- **Company Profile Page**
+	- **Feature Private Issue Reporting**
+	- **API rate Throttling/Limiter**
+
+- Evaluation Phase 2
+
+	- **Reward System using Bitcoin-POS**
+
+
+
 
 # Why me?
 

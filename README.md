@@ -56,7 +56,7 @@ I'll be implementing the new design's using Tailwind CSS.
 
     - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
     - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
-    - (fix all distorted images)
+    - (fix all distorted images - check mobile)
 	<br>
 	<img src="/media/leaderboard.png" width="700" height="400" />
 
@@ -131,7 +131,7 @@ I'll be implementing the new design's using Tailwind CSS.
 # PROPOSED TIMELINE
 
 ### Commitments
-My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus i will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
+My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus I will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
 **proposed duration of the project is 350hrs.**
 ### Timeline
 to be added
@@ -139,7 +139,7 @@ to be added
 # Why me?
 
 Being a very enthusiastic individual in the CyberSec and open source fields, I enjoy learning about technology regardless of how difficult or simple its design is to implement.
-I have a good foundation in integrating Full Stack solutions and I have almost 2 years of experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs and have a basic understanding of blockchain concepts and mainnets including bitcoin, ethereum and solana.
+I have a good foundation in integrating Full Stack solutions and I have almost 2 years of experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs and have a basic understanding of blockchain concepts and mainnets including Bitcoin, Ethereum and Solana.
 
 # After GSoC
 
@@ -151,7 +151,7 @@ If possible I will also try to maintain BLT and increase community engagement of
 
 - [https://owasp.org/www-community/initiatives/gsoc/gsoc\_sat](https://owasp.org/www-community/initiatives/gsoc/gsoc_sat)
 - [https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas](https://owasp.org/www-community/initiatives/gsoc/gsoc2023ideas)
-- [https://github.com/OWASP/BLT/Flutter](https://github.com/OWASP/BLT-Flutter)
+- [https://github.com/OWASP/BLT-Flutter](https://github.com/OWASP/BLT-Flutter)
 - [https://github.com/owasp/blt/](https://github.com/owasp/blt/)
 - [Figma Designs](https://www.figma.com/file/s0xuxeU6O2guoWEfA9OElZ/Design)
 

@@ -85,8 +85,9 @@ I'll be implementing the new design's using Tailwind CSS.
 
 - ### API's for BLT Flutter
 
-    - Currently most of the functionality is implemented on the web interface but mobile is the key device which increases the accessibility of the BLT project so implementing all the functionality which are on the BLT web to BLT flutter will increase the accessibility.
-      - Pagination on all the list APIs
+	Currently most of the functionality is implemented on the web interface but mobile is the key device which increases the accessibility of the BLT project so implementing all the functionality which are on the BLT web to BLT flutter will increase the accessibility.
+    
+    - **Pagination on all the list API's**.
 
     - **Documentation and Testing (**[Django's Unit Test](https://docs.python.org/3/library/unittest.html#module-unittest)**)**
       - Providing good documentation makes it easy for contributors, consumers and maintainers to understand the functionality and maintain the project in the long run.

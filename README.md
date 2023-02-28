@@ -39,57 +39,7 @@ Also BLT aligns with my Stack i.e Django, Javascript, Blockchain.I also have a b
 
 # Contributions in OWASP
 
-I have started contributing to OWASP and contributed to projects **BLT, PyGoat, Threat-Dragon**. In Project BLT I have in total 54 Commits. Following are the merged PRs:
-
-**OWASP (Merged Pr's)**
-
-| **SNO** | **PROJECT** | **CONTRIBUTIONS** |
-| --- | --- | --- |
-| **1** | **Threat Dragon** | [Fix broken UI](https://github.com/OWASP/threat-dragon/pull/427) |
-| **2** | **PYgoat** | [Fix Unpolished UI (minor change)](https://github.com/adeyosemanputra/pygoat/pull/175) |
-| **3** | **BLT Backend** | [top hunts ui on index page #1087](https://github.com/OWASP/BLT/pull/1087) |
-| **4** | **BLT** | [added issue template #1079](https://github.com/OWASP/BLT/pull/1079) |
-| **5** | **BLT Frontend** | [Merged index2 with index.html #1074](https://github.com/OWASP/BLT/pull/1074) |
-| **6** | **BLT Frontend** | [Migrate UI #1055](https://github.com/OWASP/BLT/pull/1055) |
-| **7** | **BLT Frontend** | [Migrate UI Auth #1048](https://github.com/OWASP/BLT/pull/1048) |
-| **8** | **BLT Frontend** | [Migrate UI Tailwind #1037](https://github.com/OWASP/BLT/pull/1037/commits) |
-| **9** | **BLT API** | [Stats api and fix user update #1022](https://github.com/OWASP/BLT/pull/1022) |
-| **10** | **BLT Backend** | [fix user to userprofile mapping logic #1021](https://github.com/OWASP/BLT/pull/1021) |
-| **11** | **BLT Backend** | [Null check added in user api #1020](https://github.com/OWASP/BLT/pull/1020) |
-| **12** | **BLT API** | [Fix list issue api format #1017](https://github.com/OWASP/BLT/pull/1017) |
-| **13** | **BLT Backend** | [Added profile update #1010](https://github.com/OWASP/BLT/pull/1010) |
-| **14** | **BLT Backend** | [Fix server error on issues repored by anynomous users and Fix auto merge #1002](https://github.com/OWASP/BLT/pull/1002) |
-| **15** | **BLT API** | [Issue Apis #999](https://github.com/OWASP/BLT/pull/999) |
-| **16** | **BLT API** | [same issue data response in list and show apis #1001](https://github.com/OWASP/BLT/pull/1001) |
-| **18** | **BLT API** | [add paginated response #1000](https://github.com/OWASP/BLT/pull/1000) |
-| **19** | **BLT Backend** | [Feature/multi image upload #995](https://github.com/OWASP/BLT/pull/995) |
-| **20** | **BLT Backend** | [changed default thirdparty callback uri #993](https://github.com/OWASP/BLT/pull/993) |
-| **21** | **BLT Backend** | [Feature server downtime label added | bypass domain validation #990](https://github.com/OWASP/BLT/pull/990) |
-| **22** | **BLT Backend** | [fix domain exception #985](https://github.com/OWASP/BLT/pull/985) |
-| **23** | **BLT Backend** | [changed default thirdparty callback uri #993](https://github.com/OWASP/BLT/pull/993) |
-| **24** | **BLT Backend** | [domain resolver check added #945](https://github.com/OWASP/BLT/pull/945)
- |
-| **25** | **BLT Backend** | [username is None, not handled by default](https://github.com/OWASP/BLT/pull/944)
- |
-| **26** | **BLT Backend** | [large filename error fix #943](https://github.com/OWASP/BLT/pull/943)
- |
-| **27** | **BLT Backend** | [wrong credentials error message showing #940](https://github.com/OWASP/BLT/pull/940)
- |
-| **28** | **BLT Backend** | [fixed global leaderboard #939](https://github.com/OWASP/BLT/pull/939) |
-| **29** | **BLT API** | [Fix/userprofile api #936](https://github.com/OWASP/BLT/pull/936)
- |
-| **30** | **BLT API** | [cleaning, api views and template views splitup #935](https://github.com/OWASP/BLT/pull/935) |
-| **31** | **BLT** | [Update add-to-project.yml #1026](https://github.com/OWASP/BLT/pull/1026) |
-| **32** | **BLT** | [Update Setup.md #997](https://github.com/OWASP/BLT/pull/997) |
-| **33** | **BLT** | [Updated readme #996](https://github.com/OWASP/BLT/pull/996) |
-| **34** | **BLT Frontend** | [Fix/navbar #989](https://github.com/OWASP/BLT/pull/989) |
-| **35** | **BLT** | [Run test on pr #984](https://github.com/OWASP/BLT/pull/984) |
-| **36** | **BLT Frontend** | [implemented new figma design of Start bughunt| new fields added #982](https://github.com/OWASP/BLT/pull/982) |
-| **37** | **BLT Frontend** | [Fix Navbar and report a bug form UI #981](https://github.com/OWASP/BLT/pull/981) |
-| **38** | **BLT Backend** | [Added top companies and testers logic #1040](https://github.com/OWASP/BLT/pull/1040) |
-| **39** | **BLT** | [add the auto add to project github action so new issues get added to the project board #931 #1024](https://github.com/OWASP/BLT/pull/1024) |
-| **40** | **BLT Backend** | [Fix/tests #983](https://github.com/OWASP/BLT/pull/983) |
-
+I have started contributing to OWASP and contributed to projects **BLT, PyGoat, Threat-Dragon**. In Project BLT in total I have [54 merged pr's](https://github.com/OWASP/BLT/pulls/AtmegaBuzz) , [14 solved issues](https://github.com/OWASP/BLT/issues?q=assignee%3AAtmegaBuzz+is%3Aclosed+) and [13 raised issues](https://github.com/OWASP/BLT/issues/created_by/AtmegaBuzz).
 
 # **Project Details**
 
@@ -140,6 +90,8 @@ I'll be implementing the new design's using Tailwind CSS.
       - Best tool which fits the case is Django-Rest-Frameworks [API Throttling](https://www.django-rest-framework.org/api-guide/throttling/)
       - Image given below gives a better understanding of how Django REST API Throttling works.
 
+<img src="/media/throtelling.png" width="543" height="230" />
+
 ![](RackMultipart20230228-1-uz2bl9_html_d12253e5f7a14e64.png)
 
 - ### Proof of Stake Coin (BUG Coin)
@@ -150,7 +102,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
       - Implementing 2 coins (**BACON** and **BUG**) over our independent blockchain.
 
-## ![](RackMultipart20230228-1-uz2bl9_html_dc36a28e85afc4dc.png)
+<img src="/media/bitcoin.png" width="543" height="230" />
 
 - ### Private Issue Reporting
 
@@ -158,7 +110,7 @@ I'll be implementing the new design's using Tailwind CSS.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
 
-![](RackMultipart20230228-1-uz2bl9_html_533f81e63e10293a.png)
+<img src="/media/private.png" width="543" height="230" />
 
 
 - ### Issue Voting System
@@ -174,7 +126,7 @@ I'll be implementing the new design's using Tailwind CSS.
 # PROPOSED 
 
 ### Commitments
-My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus i will be able to provide 30 hrs per week   
+My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus i will be able to provide 40 hrs per week. I might have exams between June-July, but I'm targeting a minimum commitment of 20hrs per week.
 
 **Total time commitment for each week will be around 40 hours.**
 **proposed duration of the project is 350hrs.**
@@ -233,27 +185,16 @@ My university will not be providing any sort of vacations due to disturbance in 
 - Buffer week, finish anything left according to proposal (if any), or do some initial work on proposed future ideas.
  |
 
-# Availability
-
-- I will be able to work full-time (a minimum of 40 hours a week) in May.
-- I have exams in June, but I'm targeting a minimum commitment of 25hrs a week.
-- I have no obligations in July and August so I'll be able to work for a minimum of 40 hours per week
-
 # Why me?
 
 Being a very enthusiastic individual in the CyberSec and open source fields, I enjoy learning about technology regardless of how difficult or simple its design is to implement.
-
-I have a good foundation in integrating Full Stack solutions and I have almost 2 years experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs.
- I also have a basic understanding of blockchain concepts and mainnets including bitcoin, ethereum and solana.
+I have a good foundation in integrating Full Stack solutions and I have almost 2 years experience with frameworks like Django, Flask, and React. I am also skilled at developing and implementing APIs and have a basic understanding of blockchain concepts and mainnets including bitcoin, ethereum and solana.
 
 # After GSoC
 
 I believe that once my GSOC is completed, I will know the codebase like the back of my hand and be comfortable making significant improvements to the project.
-
 I will therefore contribute to OWASP BLT and other OWASP projects and attempt to put new ideas into practice.
-
 If possible I will also try to maintain BLT and increase community engagement of BLT by posting about bugheist on socials.
-
 
 # References
 

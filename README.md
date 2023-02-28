@@ -56,27 +56,26 @@ I'll be implementing the new design's using Tailwind CSS.
 
     - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
     - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
-    - (fix all distorted images)
 	<br>
-	<img src="/media/leaderboard.png" width="700" height="400" />
+	<img src="/media/leaderboard.png"/>
 
 - ### Start Bug Hunt Page
 
     - Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
 	<br>
-	<img src="/media/bughunt.png" width="700" height="400" />
+	<img src="/media/bughunt.png" />
 
 - ### User Profile Page
 
     - Adding a new profile page with stats showing info of bug reported likes and comments, category of bug solved ( Typo,Security,etc ) with all the recent activities by the user.
 	<br>
-	<img src="/media/userprofile.png" width="700" height="400" />
+	<img src="/media/userprofile.png"/>
 
 - ### Company Dashboard Page
 
     - After registering the Company, the User will become admin of that domain and company. Users will see all their registered company in a user's company page and will be directly able to manage all the companies and add multiple users to manage the company and domain.
 	<br>
-	<img src="/media/company.png" width="700" height="400" />
+	<img src="/media/company.png"/>
 
 
 ## BLT Backend
@@ -96,7 +95,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - Best tool which fits the case is Django-Rest-Frameworks [API Throttling](https://www.django-rest-framework.org/api-guide/throttling/)
       - Image given below gives a better understanding of how Django REST API Throttling works.
 	<br>
-	<img src="/media/throtelling.png" width="600" height="400" />
+	<img src="/media/throtelling.png"/>
 
 
 - ### Proof of Stake Coin (BACON Coin)
@@ -107,7 +106,7 @@ I'll be implementing the new design's using Tailwind CSS.
       - This coin can be integrated with future ideas of exchanging the coins with merch or discounts in our premium programs.
 
 	<br>
-	<img src="/media/bitcoin.png" width="600" height="400" />
+	<img src="/media/bitcoin.png"/>
 
 - ### Private Issue Reporting
 
@@ -115,7 +114,7 @@ I'll be implementing the new design's using Tailwind CSS.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
 	<br>
-	<img src="/media/private.png" width="600" height="400" />
+	<img src="/media/private.png"/>
 
 
 - ### Issue Voting System

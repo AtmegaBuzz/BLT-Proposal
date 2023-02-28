@@ -10,12 +10,19 @@
 # **Personal Info**
 
 **Name:** Swapnil Shinde
+
 **Email:** swapnilshinde9382@gmail.com
+
 **TimeZone:** India (UTC +5.30)
+
 **GitHub:** [AtmegaBuzz](https://www.github.com/AtmegaBuzz)
+
 **Slack:** AtmegaBuzz
+
 **University:** Savitribai Phule Pune University
+
 **Current Year:** 2nd Year (Expected Graduation : 2025)
+
 **Degree:** Bachelor of Engineering (BE) in Computer Science
 
 # About Me

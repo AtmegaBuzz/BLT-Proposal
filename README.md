@@ -110,7 +110,7 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
     - Some bug's can be crucial and cannot be displayed in public.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
-    - 
+   
 	<br>
 	<img src="/media/private.png"/>
 

@@ -64,6 +64,7 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
 - ### Start Bug Hunt Page
 
 	Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
+	
 	<br>
 	<img src="/media/bughunt.png" />
 
@@ -95,7 +96,7 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
 
 
 - ### Proof of Stake Coin (BACON Coin)
-
+- 
       - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
       - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
       - **Reason** behind implementing our own chain is to make faster transactions and we will be the governing Authority.
@@ -109,6 +110,7 @@ Current BLT website has a lot of bugs and the UI implemented is not polished. As
     - Some bug's can be crucial and cannot be displayed in public.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
     - Allow users to tag an organization to make the bug/issue found private and only accessible by the organization/company
+    - 
 	<br>
 	<img src="/media/private.png"/>
 
@@ -156,13 +158,14 @@ My university will not be providing any sort of vacation due to disturbance in a
 	
 - ### **Aug 15 - Aug 21**
 	- Finish some leftover work, document and write tests for the API’s 
-
+	
+- ### **Aug 28**
+	- Evaluation Phase 2
 
 
 # Deliverable's
 - Evaluation Phase 1
-	<br>
-	I’m Confident that I would be able to implement the following ideas that I've mentioned in the proposal before the 1’st Phase of Evaluation Period.
+
 	- **Home Page**
 	- **Start Bug Hunt Page**
 	- **Company Profile Page**

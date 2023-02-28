@@ -11,7 +11,6 @@
 
 **Name:** Swapnil Shinde
 **Email:** swapnilshinde9382@gmail.com
-**Phone:** +91 9382084913
 **TimeZone:** India (UTC +5.30)
 **GitHub:** [AtmegaBuzz](https://www.github.com/AtmegaBuzz)
 **Slack:** AtmegaBuzz
@@ -94,57 +93,31 @@ I have started contributing to OWASP and contributed to projects **BLT, PyGoat, 
 
 # **Project Details**
 
-# Overview
-
-In this project. My aim is to make the BLT project production ready with no major bugs. Below I've listed all the features and changes I will be implementing in the project.
-
-The project is divided into 3 sections.
-
-- BLT frontend.
-
-    - Fixing all bugs and integrating new design given in figma design using Tailwind CSS.
-    - Polishing the frontend and solving all frontend related issues.
-
-- BLT backend.
-
-    - Closing 30% of open issues
-    - Implementing proof of stake coin
-    - Integration of API rate limiter
-    - Create and document apis for all functionality implemented on the web to support flutter apps.
-    - Implement a bug verification system to verify if a bug is valid.
-    - Company Dashboard using tailwind and Private Issue reporting
-
-Also the **proposed duration of the project is 350hrs.**
-
-
-
-# **Implementation**
-
 ## BLT Frontend
 
 Current BLT website has a lot of bugs and the UI implemented is not polished. As mentioned in the issue [New Design #696](https://github.com/OWASP/BLT/issues/696).
 I'll be implementing the new design's using Tailwind CSS.
 
-- ## Home Page
+- ### Home Page
 
     - Current home page does not contain a leaderboard for Top company, Top Testers and Recent Bugs.
     - Adding the most popular bug section. In this section users can easily find the most trending bug and this will be filtered by the amount of likes and comments in the Bug from the backend.
 
 ![](RackMultipart20230228-1-uz2bl9_html_2b54a5cd90e91f7d.png)
 
-- ## Start Bug Hunt Page
+- ### Start Bug Hunt Page
 
     - Old start bug hunt page does not look so polished. Creating a new Bug hunt page with polished UI and background.
 
 ![](RackMultipart20230228-1-uz2bl9_html_2ec630c2fb283a07.png)
 
-- ## User Profile Page
+- ### User Profile Page
 
     - Adding a new profile page with stats showing info of bug reported likes and comments, category of bug solved ( Typo,Security,etc ) with all the recent activities by the user.
 
 ![](RackMultipart20230228-1-uz2bl9_html_eb116013132838b7.png)
 
-- ## Company Dashboard Page
+- ### Company Dashboard Page
 
     - After registering the Company, the User will become admin of that domain and company. Users will see all their registered company in a user's company page and will be directly able to manage all the companies and add multiple users to manage the company and domain.
 
@@ -153,20 +126,7 @@ I'll be implementing the new design's using Tailwind CSS.
 
 ## BLT Backend
 
-Backend part will be implemented in the following steps:
-
-- Closing 90% of backend related issues.
-- APIs
-  - Create APIs of all functionality on BLT web for BLT Flutter
-  - Create tests for the APIs
-  - Document the APIs using postman
-  - Integrate API rate limiter
-- Implementing proof of stake coin.
-- Implementing Private Issue reporting and a Voting System just like Stack overflow
-
-
-
-- ## API's for BLT Flutter
+- ### API's for BLT Flutter
 
     - Currently most of the functionality is implemented on the web interface but mobile is the key device which increases the accessibility of the BLT project so implementing all the functionality which are on the BLT web to BLT flutter will increase the accessibility.
       - Pagination on all the list APIs
@@ -182,7 +142,7 @@ Backend part will be implemented in the following steps:
 
 ![](RackMultipart20230228-1-uz2bl9_html_d12253e5f7a14e64.png)
 
-- ## Proof of Stake Coin (BUG Coin)
+- ### Proof of Stake Coin (BUG Coin)
 
     - Giving rewards to bug hunters/reporters will boost their morale and give them motivation to participate more in Bug Hunting programs.
       - The plan is to integrate [Bitcoin-POS](https://github.com/BitcoinP0S/bitcoinpos) which works on Proof of Stake consensus algorithm to avoid the power consumption as compared to Proof Of Work (PoW) consensus.
@@ -192,7 +152,7 @@ Backend part will be implemented in the following steps:
 
 ## ![](RackMultipart20230228-1-uz2bl9_html_dc36a28e85afc4dc.png)
 
-- ## Private Issue Reporting
+- ### Private Issue Reporting
 
     - Some bug's can be crucial and cannot be displayed in public.
     - Allow companies to launch a private bug hunting program in which all the bugs reported by the hunters will be private by default and only the company which the program belongs to can see those bugs/vulnerabilities found.
@@ -201,7 +161,7 @@ Backend part will be implemented in the following steps:
 ![](RackMultipart20230228-1-uz2bl9_html_533f81e63e10293a.png)
 
 
-- ## Issue Voting System
+- ### Issue Voting System
 
     - The Plan is to implement a voting system on bugs published
     - The voting functionality will be same as of stackoverflow
@@ -211,8 +171,14 @@ Backend part will be implemented in the following steps:
       - More to be included during implementation
 
 
-# Project Timeline
+# PROPOSED 
 
+### Commitments
+My university will not be providing any sort of vacations due to disturbance in academic timeline due to corona, but the attendence is not mandatory thus i will be able to provide 30 hrs per week   
+
+**Total time commitment for each week will be around 40 hours.**
+**proposed duration of the project is 350hrs.**
+### Timeline
 | **Pre GSoC Period** |
 | --- |
 | **April 14 - May 20** |
@@ -288,7 +254,6 @@ I will therefore contribute to OWASP BLT and other OWASP projects and attempt to
 
 If possible I will also try to maintain BLT and increase community engagement of BLT by posting about bugheist on socials.
 
-#
 
 # References
 
